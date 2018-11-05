@@ -11,3 +11,5 @@ Packages used:
 - strconv
 
 November 5, 2018 - 4b8f6cc7dc833fb6e7f6a3e23fb895c13ffbb9795bf138a74744ff008376cc89
+
+[What is REST - Representational state transfer (Wiki)](https://en.wikipedia.org/wiki/Representational_state_transfer)
